@@ -6,7 +6,7 @@ I'm a python developer from italy!
 
 Q: What do you do?
 
-A: Many python scripting, but also some javascript, thoug all of my works are python, apart from pull requests ;)
+A: Manily python scripting, but also some javascript, thoug all of my works are python, apart from pull requests ;)
 
 Q: What are you currently learning?
 
