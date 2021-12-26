@@ -1,6 +1,8 @@
+```pip install miczi```
+
 # Hi! im bee-michi 👋
 
-I'm a python developer from italy!
+I'm a python developer from italy! I code in python and much more!
 
 ## Faq
 
