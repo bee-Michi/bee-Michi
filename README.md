@@ -16,4 +16,4 @@ A: hello world mania, a collection of hello world programs!
 A: Currently python. But javascript is slowly becoming my favourite!
 
 ### Q: Fav editor?
-A: its... ED. Just kidding of course. It's vscodium, as i prefer owning my data 😡
+A: Vscode, litteraly boosts so much my productivity!
